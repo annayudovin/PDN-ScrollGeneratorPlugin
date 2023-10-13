@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{b94d640e-e26d-4867-ba8a-6a1b4bbd56d8}") = "ScrollGeneratorEffect", "ScrollGeneratorEffect.csproj", "{d0b22e09-e4bd-4b98-8114-6b71f6b3ec0d}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{d0b22e09-e4bd-4b98-8114-6b71f6b3ec0d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{d0b22e09-e4bd-4b98-8114-6b71f6b3ec0d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{d0b22e09-e4bd-4b98-8114-6b71f6b3ec0d}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{d0b22e09-e4bd-4b98-8114-6b71f6b3ec0d}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {b98ca9c7-9871-49d6-bf8d-23d849b347ea}
+	EndGlobalSection
+EndGlobal

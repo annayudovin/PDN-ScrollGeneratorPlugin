@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ScrollGeneratorEffect": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\paint.net\\PaintDotNet.exe",
+      "workingDirectory": "C:\\Program Files\\paint.net\\"
+    }
+  }
+}
